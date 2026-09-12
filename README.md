@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Arunabh Das
+<!-- ANIMATED TOP WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arunabh%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- WORKING ANIMATED TYPEWRITER -->
+<!-- ANIMATED TYPEWRITER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd+Year+Student+Exploring+Machine+Learning;Learning+Data+Science+%26+Predictive+Modeling;Building+Hands-On+Projects" alt="Typing SVG" />
 
 <br/><br/>
@@ -80,4 +81,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=arunabh2005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- ANIMATED FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
