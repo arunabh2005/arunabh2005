@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED TOP WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arunabh%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- ANIMATED TOP WAVE BANNER (PERFECTLY CENTERED) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arunabh%20Das&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=48&animation=fadeIn" width="100%" />
 
 <!-- ANIMATED TYPEWRITER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd+Year+Student+Exploring+Machine+Learning;Learning+Data+Science+%26+Predictive+Modeling;Building+Hands-On+Projects" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- CONNECT & STATS -->
+<!-- CONNECT -->
 <a href="https://www.linkedin.com/in/arunabh-das-ba9a1725b/">
   <img src="https://img.shields.io/badge/LinkedIn-Arunabh_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=arunabh2005&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
