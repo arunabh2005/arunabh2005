@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED DYNAMIC WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=200&section=header&text=Arunabh%20Das&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pre-Final%20Year%20Student%20%7C%20Machine%20Learning%20%26%20Data%20Science&descAlignY=60&descAlign=50" width="100%" />
+# Hi there, I'm Arunabh Das
 
-<!-- ANIMATED TYPEWRITER SUBTITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=3rd+Year+Student+Exploring+Machine+Learning;Learning+Data+Science+%26+Predictive+Modeling;Building+Hands-On+Projects" alt="Typing SVG" />
-</a>
+<!-- WORKING ANIMATED TYPEWRITER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd+Year+Student+Exploring+Machine+Learning;Learning+Data+Science+%26+Predictive+Modeling;Building+Hands-On+Projects" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- CONNECT BUTTON -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arunabh_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunabh-das-ba9a1725b/)
+<!-- CONNECT & STATS -->
+<a href="https://www.linkedin.com/in/arunabh-das-ba9a1725b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Arunabh_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=arunabh2005&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -76,17 +76,8 @@
 
 ---
 
-### GitHub Statistics
+### GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunabh2005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arunabh2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunabh2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=100&section=footer" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=arunabh2005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
